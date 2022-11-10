@@ -1,1 +1,1 @@
-Practica de htmlpagina web de pasteles
+Practica de html pagina web de pasteles
